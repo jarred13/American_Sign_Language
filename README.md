@@ -12,5 +12,5 @@ I learned about the max pooling 2D layer in Keras. This layer downsamples the in
 # Dataset Used
 The dataset consists of 27,455 training images and 7,172 test images. Each image is grayscaled and has a 28 x 28 pixel structure. Each image includes the label of which letter in the alphabet the image represents. There are 24 letters in this dataset, 'j' and 'z' are not included because they both involve motion. This dataset was found on Kaggle.
 
-#Files Used
+# Files Used
 sign-language-mnist-cnn-accuracy-100.ipynb - python notebook
